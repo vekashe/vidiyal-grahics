@@ -609,7 +609,7 @@ header .custom-container {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
-    gap: 1rem;
+    gap: 2rem 1rem;
     height: max-content;
 }
 
