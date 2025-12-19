@@ -107,6 +107,10 @@ header .custom-container {
     transition: all 0.3s ease;
 }
 
+.nav-menu a span {
+    display: none;
+}
+
 .header.open .nav-menu {
     transform: translateX(0%);
 }

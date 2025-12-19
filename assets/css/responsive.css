@@ -203,6 +203,20 @@
         transition: all 0.3s ease;
     }
 
+    .nav-menu a {
+        position: relative;
+    }
+
+    .nav-menu a span {
+        display: flex;
+        position: absolute;
+        font-size: 0.7rem;
+        top: calc(100% + 4px);
+        left: 50%;
+        width: max-content;
+        transform: translateX(-50%);
+    }
+
     .footer-top {
         padding: 6rem 0 0;
     }
