@@ -257,6 +257,20 @@
         max-width: 50%;
     }
 
+    .hero-banner {
+        flex-direction: row;
+    }
+
+    .hero-banner > a {
+        width: 50%;
+        height: 100%;
+    }
+    
+    .hero-banner > a:nth-child(2) {
+        border-bottom: none;
+        border-right: 3px solid #fff;
+    }
+
     .about-us {
         padding: 8rem 0 5rem;
     }
