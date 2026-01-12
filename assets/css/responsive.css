@@ -265,6 +265,10 @@
         width: 50%;
         height: 100%;
     }
+
+    .hero-banner > a img {
+        width: 300px;
+    }
     
     .hero-banner > a:nth-child(2) {
         border-bottom: none;
