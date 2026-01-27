@@ -37,6 +37,7 @@ h2 {
 h3 {
     font-size: 1.4rem;
     font-weight: 700;
+    letter-spacing: -0.2px;
 }
 
 h4 {
@@ -298,6 +299,24 @@ header .custom-container {
     justify-content: center;
 }
 
+.vidiyal-container-img {
+    background-image: url('../images/modern-printing-press-produces-multi-colored-printouts.jpg.jpeg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-color: #0009;
+    background-blend-mode: color;
+}
+
+.vplus-container-img {
+    background-image: url('../images/packaging-box-mockup-series-blank-white-space.jpg.jpeg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-color: #0009;
+    background-blend-mode: color;
+}
+
 .hero-banner.hero-sub {
     height: 70vh;
 }
@@ -335,7 +354,7 @@ header .custom-container {
     width: 180px;
 }
 
-/* .hero-banner .custom-container {
+.hero-banner .custom-container {
     position: relative;
     z-index: 10;
     color: var(--white);
@@ -344,11 +363,12 @@ header .custom-container {
     flex-direction: column;
     align-items: center;
     gap: 1rem;
-} */
+}
 
 .hero-banner h1 {
     font-size: 7vw;
     font-weight: 700;
+    margin-top: 2rem;
 }
 
 
