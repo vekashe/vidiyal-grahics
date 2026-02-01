@@ -369,7 +369,7 @@
 
     .services-item {
         width: calc(50% - 1.5rem);
-        aspect-ratio: 14 / 9;
+        aspect-ratio: 9 / 10;
     }
 
     .home-cta {

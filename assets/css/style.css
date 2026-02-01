@@ -550,6 +550,7 @@ header .custom-container {
     color: var(--white);
     display: flex;
     flex-direction: column;
+    align-items: center;
     gap: 0.3rem;
     padding: 1.5rem 1rem;
     background-color: #0009;
