@@ -554,6 +554,7 @@ header .custom-container {
     gap: 0.3rem;
     padding: 1.5rem 1rem;
     background-color: #0009;
+    text-align: center;
 }
 
 .services-item a {
